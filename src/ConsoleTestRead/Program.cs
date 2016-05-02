@@ -37,6 +37,7 @@ namespace ConsoleTestRead
                 }
                 Console.WriteLine("Press <ENTER> to exit...");
                 Console.ReadLine();
+            }
         }
     }
 }

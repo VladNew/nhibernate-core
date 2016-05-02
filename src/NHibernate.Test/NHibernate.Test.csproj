@@ -103,9 +103,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\SharedAssemblyInfo.cs">
-      <Link>SharedAssemblyInfo.cs</Link>
-    </Compile>
     <Compile Include="Ado\AlmostSimple.cs" />
     <Compile Include="Ado\BatcherFixture.cs" />
     <Compile Include="Ado\VerySimple.cs" />
@@ -3747,7 +3744,6 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
