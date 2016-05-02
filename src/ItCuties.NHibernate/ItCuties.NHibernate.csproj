@@ -57,7 +57,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="J:\git\github\VladNew\nhibernate-core\nhibernate-core\src\NHibernate\NHibernate.csproj">
+    <ProjectReference Include="..\NHibernate\NHibernate.csproj">
       <Project>{5909bfe7-93cf-4e5f-be22-6293368af01d}</Project>
       <Name>NHibernate</Name>
     </ProjectReference>
